@@ -1,9 +1,9 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/arecasystems/areca-pos-electron-public/releases/download/1.0.12/areca-pos-1.0.12.AppImage",
-    "install": "https://github.com/arecasystems/areca-pos-electron-public/releases/download/1.0.12/areca-pos-1.0.12.AppImage",
-    "version": "1.0.12",
-    "sha256": "d6e6ba287d0d473a45f86b0ad6bcea4bfd33764a3eec59111a8781beafd76cac",
+    "update": "https://github.com/arecasystems/areca-pos-electron-public/releases/download/1.0.13/areca-pos-1.0.13.AppImage",
+    "install": "https://github.com/arecasystems/areca-pos-electron-public/releases/download/1.0.13/areca-pos-1.0.13.AppImage",
+    "version": "1.0.13",
+    "sha256": "272f453955e81c68e706effdd877f26130f92d80c74911e636778bc38df2ffb8",
     "forceUpdate": true
   }
 }
