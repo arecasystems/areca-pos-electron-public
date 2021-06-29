@@ -10,7 +10,7 @@
     "update": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.20-alpha.AppImage",
     "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.20-alpha.AppImage",
     "version": "1.0.20",
-    "sha256": "79998a7f37b7f74b978cc3d2400727176290236eeb49115816869cc2b00a5e94",
+    "sha256": "d5d89a7700f0234c67cf81c8a69aca8e1678a763bbbc8c53f9f0eabd15a46fae",
     "forceUpdate": true
   },
   "linux-x64-test": {
