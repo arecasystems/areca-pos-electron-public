@@ -1,16 +1,16 @@
 {
   "linux-x64-prod": {
-    "update": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.31-prod.AppImage",
-    "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.31-prod.AppImage",
-    "version": "1.0.31",
-    "sha256": "03ce138d6767ae7472e6b49a88e2987f75069b76cbf27f2b099e30ce405954b0",
+    "update": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.32-prod.AppImage",
+    "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.32-prod.AppImage",
+    "version": "1.0.32",
+    "sha256": "dd74f33067d9b49cb7fbf5ce2a164f441ced9ff426b3bf7be9be0ed1ce55fe58",
     "forceUpdate": true
   },
   "linux-x64-alpha": {
-    "update": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.31-alpha.AppImage",
-    "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.31-alpha.AppImage",
-    "version": "1.0.31",
-    "sha256": "b88f83456bbfb3d0dd59ee1ea79ac4050f74b514e81398831b585940132546d9",
+    "update": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.32-alpha.AppImage",
+    "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.32-alpha.AppImage",
+    "version": "1.0.32",
+    "sha256": "112fcc8a45c3c17c9aadf201c4cef878e5358848154c486cf2cfc180d210c86b",
     "forceUpdate": true
   },
   "linux-x64-test": {
