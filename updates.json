@@ -9,7 +9,7 @@
   "linux-x64-alpha": {
     "update": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.36-alpha.AppImage",
     "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.36-alpha.AppImage",
-    "version": "1.0.35",
+    "version": "1.0.36",
     "sha256": "2dd6670184f459095cef15fc32bcf89c45265d15a56ab2fa4ecd13c139623433",
     "forceUpdate": true
   },
