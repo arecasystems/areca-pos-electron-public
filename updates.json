@@ -1,9 +1,9 @@
 {
   "linux-x64-prod": {
-    "update": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.35-prod.AppImage",
-    "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.35-prod.AppImage",
-    "version": "1.0.35",
-    "sha256": "492be411d66aa1c3f25d95e4016088135342a4ac7a5aa7bccd5384c434f4b510",
+    "update": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.36-prod.AppImage",
+    "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.36-prod.AppImage",
+    "version": "1.0.36",
+    "sha256": "f646883ed9489651b4600753c235927cd49dc66d9e509153793ec39c6e38c245",
     "forceUpdate": true
   },
   "linux-x64-alpha": {
