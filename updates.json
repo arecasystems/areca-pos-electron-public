@@ -19,5 +19,27 @@
     "version": "1.0.23",
     "sha256": "f05f3d0d52ac061e1340396bc08e4609d180df3281ea395378a06436ccead577",
     "forceUpdate": true
+  },
+  "store": {
+    "1.0.36": {
+      "prod": {
+        "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.36-prod.AppImage",
+        "sha256": "f646883ed9489651b4600753c235927cd49dc66d9e509153793ec39c6e38c245"
+      },
+      "alpha": {
+        "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.36-alpha.AppImage",
+        "sha256": "2dd6670184f459095cef15fc32bcf89c45265d15a56ab2fa4ecd13c139623433"
+      }
+    },
+    "1.0.35": {
+      "prod": {
+        "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.35-prod.AppImage",
+        "sha256": "492be411d66aa1c3f25d95e4016088135342a4ac7a5aa7bccd5384c434f4b510"
+      },
+      "alpha": {
+        "install": "https://public-areca.s3.ap-southeast-1.amazonaws.com/areca-pos-1.0.35-alpha.AppImage",
+        "sha256": "8a5adecaa0fccd50f34ef4e38327f1d9b2bb49e3013d3428f8cff578a4b90b23"
+      }
+    }
   }
 }
